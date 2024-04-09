@@ -720,23 +720,6 @@ transition: all 0.5s;
   }
 }
 
-.banner-single .breadcrumb {
-  background-color: transparent;
-  color: #0078ff;
-}
-
-.banner-single .breadcrumb .breadcrumb-item:before {
-  color: #cde1f8;
-}
-
-.banner-single .breadcrumb .breadcrumb-item.active {
-  color: #cde1f8;
-}
-
-.banner-single .breadcrumb a {
-  color: #fff;
-}
-
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
